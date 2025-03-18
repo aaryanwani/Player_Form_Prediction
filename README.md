@@ -1,11 +1,5 @@
 # Player Performance Prediction in Euro League Football
 
-## Team Members
-- Resham Deepak Bahira (Reshamm13)
-- Sudhanshu Gopalrao Pawar (Psudhanshu)
-- Nithin Kumar Hadhge Girish Kumar (NK12131)
-- Aaryan wani (aaryanwani)
-
 ## Introduction
 This project develops a predictive model for forecasting player performance in European football leagues. The model focuses on predicting form scores for upcoming seasons by analyzing historical data and incorporating contextual factors such as match location and weather conditions.
 
